@@ -1,13 +1,13 @@
 {
-  "name": "playwright-cli",
+  "name": "firecrawl-cli",
   "owner": {
-    "name": "Microsoft Corporation"
+    "name": "Firecrawl"
   },
   "plugins": [
     {
-      "name": "playwright-cli",
+      "name": "firecrawl-cli",
       "source": "./",
-      "description": "Control browsers from the command line. Navigate pages, click elements, fill forms, take screenshots, and inspect network traffic using Playwright."
+      "description": "Scrape, search, crawl, and map the web with a single command."
     }
   ]
 }
