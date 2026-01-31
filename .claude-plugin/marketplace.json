@@ -7,7 +7,8 @@
     {
       "name": "firecrawl-cli",
       "source": "./",
-      "description": "Scrape, search, crawl, and map the web with a single command."
+      "description": "Scrape, search, crawl, and map the web with a single command.",
+      "skills": ["./skills/firecrawl-cli"]
     }
   ]
 }
